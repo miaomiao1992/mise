@@ -1,5 +1,19 @@
 # Changelog
 
+## [2025.3.1](https://github.com/jdx/mise/compare/v2025.3.0..v2025.3.1) - 2025-03-04
+
+### 🐛 Bug Fixes
+
+- favor aqua backend over asdf by [@dud225](https://github.com/dud225) in [#4558](https://github.com/jdx/mise/pull/4558)
+
+### Chore
+
+- edition 2024 by [@jdx](https://github.com/jdx) in [#4541](https://github.com/jdx/mise/pull/4541)
+
+### New Contributors
+
+- @dud225 made their first contribution in [#4558](https://github.com/jdx/mise/pull/4558)
+
 ## [2025.3.0](https://github.com/jdx/mise/compare/v2025.2.9..v2025.3.0) - 2025-03-01
 
 ### 🚀 Features
